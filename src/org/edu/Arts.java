@@ -30,6 +30,9 @@ public void ug() {
 public void pg() {
 	System.out.println("PG courses changed");
 }
+
+
+
 public static void main(String[] args) {
 	Arts a = new Arts();
 	a.bba();
